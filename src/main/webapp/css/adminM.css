@@ -1,0 +1,21 @@
+#adminM ul li {
+    padding: 10px;
+    float: left;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+#adminM {
+    margin-top: 10px;
+    width: 100%;
+    float: left;
+    height: 30px;
+    background: white;
+    border-radius: 5px;
+}
+
+#adminM ul li:hover{
+	color: #FAD201;
+	background: black;
+	border-radius: 5px;
+}
